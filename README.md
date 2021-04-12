@@ -13,7 +13,7 @@ Keep away from unnecessary dependecies, keep it simple.
 
 ## API Documentation
 
-1. `http://localhost:3001/api/products/ (GET)` - get list on products.
+1. `http://localhost:3007/api/products/ (GET)` - get list on products.
 
    ```ts
    interface Product {
@@ -23,7 +23,7 @@ Keep away from unnecessary dependecies, keep it simple.
    }
    ```
 
-2. `http://localhost:3001/api/product/categories/ (GET)` - get list of categories.
+2. `http://localhost:3007/api/product/categories/ (GET)` - get list of categories.
    ```ts
    interface Category {
      id: string;
