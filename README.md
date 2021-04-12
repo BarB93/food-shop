@@ -7,9 +7,9 @@ Keep away from unnecessary dependecies, keep it simple.
 ## Getting started
 
 1. Start client using `yarn serve:client`
-   it will start on [localhost:3000](http://localhost:3000)
+   it will start on [localhost:3010](http://localhost:3010)
 2. Start server using `yarn serve:server`
-   it will start on [localhost:3001](http://localhost:3001)
+   it will start on [localhost:3007](http://localhost:3007)
 
 ## API Documentation
 
